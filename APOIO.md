@@ -14,4 +14,8 @@ Escaneie o QR Code com o app do seu banco:
 
 Ou use o código copia-e-cola:
 
+```
+00020126350014br.gov.bcb.pix011355519819896065204000053039865802BR5915VIAMAO DELIVERY6006VIAMAO62070503***63041562
+```
+
 Muito obrigado pelo apoio! 💛
