@@ -19,3 +19,7 @@ Ou acesse a [página de releases](https://github.com/Olnair2932/viamao-delivery-
 ## Sobre
 
 O código-fonte do app é mantido em repositório privado. Este repositório existe apenas para hospedar o APK de forma pública e gratuita.
+
+---
+
+💛 Gostou do app? [Apoie o projeto e ajude a mantê-lo no ar](APOIO.md)
